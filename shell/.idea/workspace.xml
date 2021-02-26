@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="038c5a6c-f5ae-4079-a9f4-795ff5b0cd01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/a/a.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/a/a.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/a/a.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/a/a.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/b/b.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/b/b.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/b/b.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/b/b.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/router.utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/shell/src/app/registry.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/shell/src/app/wrapper/wrapper.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/e2e/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/flights-search/flights-search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/flights-search/flights-search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/flights.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/flights.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/products/products.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/lazy/lazy.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/flights/lazy/lazy.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/app/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/bootstrap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/bootstrap.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/mfe1/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/mfe1/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/e2e/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/app/not-found/not-found.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/bootstrap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/bootstrap.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/decl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/decl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/shell/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/shell/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j7ePnL076Gqf08HLjgbBUMs4OK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/shell" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/shell/src/app" />
+      <recent name="$PROJECT_DIR$/projects/mfe1/src/app/products" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (mfe1)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/projects/mfe1/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$/projects/mfe1" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests (shell)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/projects/shell/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$/projects/shell" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (mfe1)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/projects/mfe1/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (shell)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/projects/shell/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038c5a6c-f5ae-4079-a9f4-795ff5b0cd01" name="Default Changelist" comment="" />
+      <created>1603159535261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603159535261</updated>
+      <workItem from="1603159536324" duration="3552000" />
+      <workItem from="1603222810963" duration="11021000" />
+      <workItem from="1603238117828" duration="2141000" />
+      <workItem from="1603288104179" duration="600000" />
+      <workItem from="1603292504672" duration="612000" />
+      <workItem from="1607356806180" duration="6217000" />
+      <workItem from="1607539603659" duration="7733000" />
+      <workItem from="1610490227661" duration="1364000" />
+      <workItem from="1612827555454" duration="862000" />
+      <workItem from="1612828704179" duration="3699000" />
+      <workItem from="1613184345679" duration="2967000" />
+      <workItem from="1613309971390" duration="26635000" />
+    </task>
+    <task id="LOCAL-00001" summary="zx">
+      <created>1603228255342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603228255342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zx">
+      <created>1603228297325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603228297325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zx" />
+    <option name="LAST_COMMIT_MESSAGE" value="zx" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="366" key="FileChooserDialogImpl" timestamp="1613342863965">
+      <screen x="-1920" y="79" width="1920" height="1057" />
+    </state>
+    <state x="-1180" y="366" key="FileChooserDialogImpl/-1920.79.1920.1057/0.23.1920.1089@-1920.79.1920.1057" timestamp="1613342863965" />
+    <state x="4580" y="294" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1920.1080@3840.0.1920.1080" timestamp="1612828462921" />
+    <state x="4580" y="294" key="FileChooserDialogImpl/0.0.2194.1194/3840.0.1920.1080@3840.0.1920.1080" timestamp="1607531464357" />
+    <state x="740" y="319" key="FileChooserDialogImpl/0.23.1920.1089@0.23.1920.1089" timestamp="1613321471962" />
+    <state x="-1201" y="248" width="921" height="660" key="find.popup" timestamp="1613344400769">
+      <screen x="-1920" y="79" width="1920" height="1057" />
+    </state>
+    <state x="-1201" y="248" width="921" height="660" key="find.popup/-1920.79.1920.1057/0.23.1920.1089@-1920.79.1920.1057" timestamp="1613344400769" />
+    <state x="799" y="292" width="786" height="505" key="find.popup/-1920.79.1920.1057/0.23.1920.1089@0.23.1920.1089" timestamp="1613343411079" />
+    <state x="1109" y="322" width="786" height="490" key="find.popup/0.23.1920.1089@0.23.1920.1089" timestamp="1613321498530" />
+  </component>
+</project>
