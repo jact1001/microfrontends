@@ -2,13 +2,16 @@ import { Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { WrapperComponent } from "./wrapper/wrapper.component";
-import {loadRemoteModule} from "@angular-architects/module-federation";
 
 export const APP_ROUTES: Routes = [
   {
     path: '',
     component: HomeComponent,
     pathMatch: 'full'
+  },
+  {
+    path: 'pagos',
+    loadChildren: () => import('../app/pagos/pagos.module').then((mod) => mod.PagosModule),
   },
   {
     path: 'mfe1',
