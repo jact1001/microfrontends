@@ -3,7 +3,7 @@ const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPl
     module.exports = {
       watch: true,
       output: {
-        publicPath: "http://localhost:5000/",
+        // publicPath: 'http://localhost:5000/',
         uniqueName: "shell"
       },
       optimization: {
@@ -26,10 +26,10 @@ const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPl
             // For hosts (please adjust)
 
             remotes: {
-              'mfe1': "mfe1@http://localhost:4201/remoteEntry.js",
+              'mfe1': "mfe1@https://d21pz8ftbwkt.cloudfront.net/products/remoteEntry.js",
               'mfe2': "mfe2@http://localhost:4202/remoteEntry.js",
               'mfe3': "mfe3@http://localhost:4203/remoteEntry.js",
-              'mfe4': "mfe4@http://localhost:4204/remoteEntry.js",
+              'mfe4': "mfe4@https://d21pz8ftbwkt.cloudfront.net/profile/remoteEntry.js",
             },
 
             shared: ["@angular/core", "@angular/common", "@angular/router", "useless-lib"]

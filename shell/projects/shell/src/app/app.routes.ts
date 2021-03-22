@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { NotFoundComponent } from './not-found/not-found.component';
-import { WrapperComponent } from "./wrapper/wrapper.component";
+import { WrapperComponent } from './wrapper/wrapper.component';
 
 export const APP_ROUTES: Routes = [
   {
