@@ -10,7 +10,7 @@ import { WrapperComponent } from "./wrapper/wrapper.component";
 @NgModule({
   imports: [
     BrowserModule,
-    RouterModule.forRoot(APP_ROUTES)
+    RouterModule.forRoot(APP_ROUTES, { useHash: true }),
   ],
   declarations: [
     AppComponent,
